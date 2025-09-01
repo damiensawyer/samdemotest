@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Sam.Coach")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+47f7822725ca20334c7b75e9dd6bf977a75e35b5")]
 [assembly: System.Reflection.AssemblyProductAttribute("Sam.Coach")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Sam.Coach")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

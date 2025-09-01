@@ -24,5 +24,15 @@ namespace Sam.Coach.Tests
 
             actual.Should().Equal(expected);
         }
+
+        [Fact]
+        public async Task Find_WithNullInput_ReturnsEmptyList()
+        {
+            var finder = new LongestRisingSequenceFinder();
+            var actual = await finder.Find(null);
+
+            actual.Should().NotBeNull();
+            actual.Should().BeEmpty();
+        }
     }
 }
