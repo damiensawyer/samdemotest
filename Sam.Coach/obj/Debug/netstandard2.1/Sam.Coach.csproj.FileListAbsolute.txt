@@ -1,0 +1,10 @@
+/home/damien/code/Roger/Sam.Coach/bin/Debug/netstandard2.1/Sam.Coach.deps.json
+/home/damien/code/Roger/Sam.Coach/bin/Debug/netstandard2.1/Sam.Coach.dll
+/home/damien/code/Roger/Sam.Coach/bin/Debug/netstandard2.1/Sam.Coach.pdb
+/home/damien/code/Roger/Sam.Coach/obj/Debug/netstandard2.1/Sam.Coach.csproj.AssemblyReference.cache
+/home/damien/code/Roger/Sam.Coach/obj/Debug/netstandard2.1/Sam.Coach.GeneratedMSBuildEditorConfig.editorconfig
+/home/damien/code/Roger/Sam.Coach/obj/Debug/netstandard2.1/Sam.Coach.AssemblyInfoInputs.cache
+/home/damien/code/Roger/Sam.Coach/obj/Debug/netstandard2.1/Sam.Coach.AssemblyInfo.cs
+/home/damien/code/Roger/Sam.Coach/obj/Debug/netstandard2.1/Sam.Coach.csproj.CoreCompileInputs.cache
+/home/damien/code/Roger/Sam.Coach/obj/Debug/netstandard2.1/Sam.Coach.dll
+/home/damien/code/Roger/Sam.Coach/obj/Debug/netstandard2.1/Sam.Coach.pdb
